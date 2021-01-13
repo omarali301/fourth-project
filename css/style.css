@@ -1,0 +1,25 @@
+.panda-card{
+    border: none;
+}
+
+.panda-card-footer{
+
+    background-color: white;
+    border: none;
+   
+}
+
+.category img{
+
+    width: 100px;
+}
+
+.panda-slide .carousel-item {
+
+    background-color: #ffc1c75b;
+    border-radius: 1em;
+
+}
+.sticky-top{
+    position: sticky;
+}
